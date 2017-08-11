@@ -6,7 +6,7 @@ Preparing
 python package wfdb, tensorflow, keras
 
 accuracy:
-[image](https://github.com/cswwp/ECG-convolution-net/edit/master/images/NNacc.png)
+![image](https://github.com/cswwp/ECG-convolution-net/edit/master/images/NNacc.png)
 
 loss:
-[image](https://github.com/cswwp/ECG-convolution-net/edit/master/images/NNloss.png)
+![image](https://github.com/cswwp/ECG-convolution-net/edit/master/images/NNloss.png)
